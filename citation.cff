@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "CH4-offset – code for methane offsetting with temporary carbon sinks"
+message: "If you use this code, please cite the accompanying paper and this repository."
+authors:
+  - family-names: Schmidt
+    given-names: Hans-Peter
+license: MIT
+repository-code: "https://github.com/ithaka-hp/CH4-offset"
+keywords:
+  - methane
+  - carbon dioxide removal
+  - temporary carbon sinks
+  - impulse response function
+  - GWP
+  - offsetting
